@@ -66,6 +66,7 @@ namespace Calculs
                         }
                         else
                         {
+                            // zz
                             Console.WriteLine("Faux : " + val1 + " x " + val2 + " = " + solution);
                         }
                     }
